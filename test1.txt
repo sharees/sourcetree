@@ -40,6 +40,4 @@ are you ok
 	asdfasdf
 	asdfdf
 	asdfasdfdfasdfa
- 
-    go
-    (___)))__))(__))(__)))
+
